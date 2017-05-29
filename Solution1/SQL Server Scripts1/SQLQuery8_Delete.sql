@@ -1,0 +1,2 @@
+DELETE from CUSTOMER1
+WHERE IdCustomer=2

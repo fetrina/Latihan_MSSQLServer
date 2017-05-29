@@ -1,0 +1,2 @@
+SELECT * FROM CUSTOMER 
+WHERE NamaAwal LIKE 'Ke_n_n'

@@ -1,0 +1,1 @@
+Select IdCustomer, NamaAkhir, NamaAwal from CUSTOMER1

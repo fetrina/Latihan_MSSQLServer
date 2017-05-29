@@ -1,0 +1,2 @@
+SELECT * FROM CUSTOMER 
+WHERE NomorCustomer IN (878,132)

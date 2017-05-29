@@ -1,0 +1,1 @@
+Select * from CUSTOMER order by NamaAwal, Alamat

@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server Scripts1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="COMPUTER:sa">
+          <Created>2017-03-23T00:29:24.5968255+07:00</Created>
+          <Type>SQL</Type>
+          <Server>COMPUTER</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="SQLQuery1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery19_Join.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery19_Join.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery20_CommentDanVariabel.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery20_CommentDanVariabel.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery21_VariabelDanPrint.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery21_VariabelDanPrint.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery6_InsertDataKelas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery6_InsertDataKelas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery23_VariabelGlobalBuiltIn.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery23_VariabelGlobalBuiltIn.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery9_select.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery9_select.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2_CreateTableSekolah_PK.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery2_CreateTableSekolah_PK.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery3_CreateTableKelas_FK.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery3_CreateTableKelas_FK.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8_Delete.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery8_Delete.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery7_Update.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery7_Update.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery4_CreateTableCustomer.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery4_CreateTableCustomer.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery6_Insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery6_Insert.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
