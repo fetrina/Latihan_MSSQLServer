@@ -31,17 +31,29 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>SQLQuery19_Join.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery36_ProcedureWithParameterInput_DropIfExist.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery36_ProcedureWithParameterInput_DropIfExist.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery30_SelectView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery30_SelectView.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery31_SelectViewWhere.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery31_SelectViewWhere.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery25_Begin...End.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>SQLQuery25_Begin...End.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery20_CommentDanVariabel.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
-          <AssociatedConnUserName>sa</AssociatedConnUserName>
-          <FullPath>SQLQuery20_CommentDanVariabel.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery21_VariabelDanPrint.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
@@ -62,22 +74,40 @@
           <FullPath>SQLQuery27_While.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery28_Cursor.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery28_Cursor.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery3.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
-          <FullPath>SQLQuery3.sql</FullPath>
+          <FullPath>SQLQuery28_Cursor.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery29_View.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>SQLQuery29_View.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery32_Procedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery32_Procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery33_ProcedureWithParameterInput.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery33_ProcedureWithParameterInput.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery34_ExecuteProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery34_ExecuteProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery35_ExecuteProcedureWithParameterInput.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>COMPUTER</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery35_ExecuteProcedureWithParameterInput.sql</FullPath>
         </FileNode>
         <FileNode Name="SQLQuery6_InsertDataKelas.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:COMPUTER:False:sa</AssociatedConnectionMoniker>
